@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-wuq5*ne4s_u*ml**p3f%@$^=i1%!w^2w_1pvg(!7ooahu-dwqc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kaf-api.onrender.com']
 
 
 # Application definition
